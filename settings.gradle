@@ -1,0 +1,2 @@
+include ':app', ':lib_lins'
+rootProject.name='SuitLines'
